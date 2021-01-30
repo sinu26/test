@@ -2,6 +2,8 @@
 
 Untracked -> Staged -> Commited
 
+재은이가 쓴 코드
+
 가능성 2
 
 남겨놓고 싶은 코드 2
