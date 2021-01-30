@@ -1,3 +1,5 @@
 무슨코드1
 
 Untracked -> Staged -> Commited
+
+가능성 2
